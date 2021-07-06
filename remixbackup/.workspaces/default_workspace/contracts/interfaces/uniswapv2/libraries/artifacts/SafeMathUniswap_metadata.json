@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/interfaces/uniswapv2/ibraries/SafeMath.sol": "SafeMathUniswap"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/interfaces/uniswapv2/ibraries/SafeMath.sol": {
+			"keccak256": "0xc6d2a6ae8a52feec83603809a7dd6b10f711f66e95ec47fa78bd820d8bf0e32f",
+			"urls": [
+				"bzz-raw://f30cae0ff384c7c955ee272c490243c05321f101a0af7042cf01b62a6b912139",
+				"dweb:/ipfs/QmbTVACQBkpKqbg7LsKmTQFjPYYhsgrVPjmcXXVc3ZUy1y"
+			]
+		}
+	},
+	"version": 1
+}
